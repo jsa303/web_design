@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title> JB's Betting Advice</title>
+</head>
+
+<body>
+    <main>
+        <h1>Thursday 19th December Picks</h1>
+        <p>
+        <ol>
+            <li><em>Both teams to score - No</em>: Chelsea v Shamrock Rovers</li>
+            <li><em>Manchester United or Draw</em>: Tottenham Hotspur v Manchester United</li>
+            <li><em>Fiorentina or Draw</em>: Vitoria Guimaraes v Fiorentina</li>
+            <li><em>Scott Williams - Win</em>: Scott Williams v Niko Springer</li>
+            <li><em>Michael Smith - Win</em>: Michael Smith v Kevin Doets</li>
+            <li><em>Justin Herbert & Bo Nix - 200+ Passing Yards Each</em>: Los Angeles Chargers v Denver Broncos</li>
+        </ol>
+        <!-- Add list of picks here, just above the image-->
+        <img src="https://commons.wikimedia.org/wiki/File:Bet365_Logo.svg" alt="Bet365 Logo">
+        <p>Find the best odds <a target="_blank" href="https://www.bet365.com/#/HO/">here</a>.</p>
+        </p>
+        <!-- Include: Pick, odds, why I've picked it-->
+        <!--At the bottom insert a check box Yes and No as to whether the user thinks it will happen-->
+        <section>
+            <h2>Pick 1: Chelsea v Shamrock Rovers</h2>
+            <p>
+            <ul>
+                <li>Choose BTTS <emp>no</emp> @1.73</li>
+                <li>Reasoning:
+                    <ol>
+                        <li>Chelsea play in the Premier League and Shamrock Rovers play in the Irish Premier Division.
+                        </li>
+                        <li>Chelsea have won 5 games out of 5 in the UEFA Conference League.</li>
+                        <li>Although Chelsea have conceded in 3 of the last 5 UEFA Conference League games to the likes
+                            of Gent, Panathinaikos and Astana.</li>
+                        <li>Shamrock have only played against weaker opposition: TNS, Rapid Wien, and Borac Banja Luka.
+                        </li>
+                        <li>I believe that a weaker Chelsea team will be too strong for Shamrock Rovers and can see
+                            Shamrock Rovers succumbing to the pressure of playing at Stamford Bridge.</li>
+                    </ol>
+                </li>
+            </ul>
+            <fieldset>
+                <legend>Do you agree with this pick?</legend>
+                <label><input id="yes" type="radio" name="yes-no" value="yes" checked> Yes</label>
+                <label><input id="no" type="radio" name="yes-no" value="no" checked> No</label>
+            </fieldset>
+            <fieldset>
+                <input type="text" name="personname" placeholder="enter name" required>
+                <button type="submit">Submit</button>
+                </fieldset:>
+                </p>
+        </section>
+        <section>
+            <h3>Pick 2: Tottenham Hotspur v Manchester United</h3>
+            <p>
+            <ul>
+                <li>Choose <emp>Manchester United or Draw</emp> @1.57</li>
+                <li>Reasoning:
+                    <ol>
+                        <li>Tottenham are missing their 1st choice goalkeeper and both starting centre-backs.</li>
+                        <li>Tottenham struggled heavily against Rangers and although they scored 5 goals last time out,
+                            it was against a pathetic Southampton team.</li>
+                        <li>Mnachester United's previous game against Manchester City away was a perfect performance -
+                            making it 2 wins out of 2 away games.</li>
+                        <li>Tottenham allowed a bad Southampton team to have 9 shots with 3 on target and 42%
+                            possession.</li>
+                        <li>Amorim's counterattacking style meant United scored 2 goals from their 3 SOT against
+                            Manchester City. This factor I believe that United will win this game, but double chance
+                            takes into account the possibility of a draw as this is a cup game.</li>
+                    </ol>
+                </li>
+            </ul>
+            <fieldset>
+                <legend>Do you agree with this pick?</legend>
+                <label><input id="yes" type="radio" name="yes-no" value="yes" checked> Yes</label>
+                <label><input id="no" type="radio" name="yes-no" value="no" checked> No</label>
+            </fieldset>
+            <fieldset>
+                <input type="text" name="personname" placeholder="enter name" required>
+                <button type="submit">Submit</button>
+                </fieldset:>
+                </p>
+        </section>
+        <section>
+            <h4>Pick 3: Vitoria Guimaraes v Fiorentina</h4>
+            <p>
+            <ul>
+                <li>Choose <emp>Fiorentina or Draw</emp> @1.30</li>
+                <li>Reasoning:
+                    <ol>
+                        <li>The quality and standard of football in the Serie A is significantly greater than that in
+                            Liga Portugal.</li>
+                        <li>Vitoria and Fiorentina are at the top end of the table. Fiorentina have faced harder
+                            opponents than Vitoria have.</li>
+                        <li>Both teams have played St Gallen this campaign with Fiorentina winning 4-2 away from home
+                            and Vitoria winning 4-1 away from home.</li>
+                    </ol>
+                </li>
+                <li> I believe that this game will have lots of goal scoring chances and if you don't like the odds you
+                    can get <emp>BTTS - YES</emp> at 1.57</li>
+            </ul>
+            <fieldset>
+                <legend>Do you agree with this pick?</legend>
+                <label><input id="yes" type="radio" name="yes-no" value="yes" checked> Yes</label>
+                <label><input id="no" type="radio" name="yes-no" value="no" checked> No</label>
+            </fieldset>
+            <fieldset>
+                <input type="text" name="personname" placeholder="enter name" required>
+                <button type="submit">Submit</button>
+                </fieldset:>
+                </p>
+        </section>
+        <section>
+            <h5>Pick 4: Scott Williams v Niko Springer</h5>
+            p>
+            <ul>
+                <li>Choose <emp>Scott Williams to Win</emp> @1.67</li>
+                <li>Reasoning:
+                    <ol>
+                        <li>Scott Williams had an excellent outing at the Players Championship Finals, reaching the QF
+                            beating stellar oppenents: Jeff van de Graaf, Kim Huybrechts, and Gian van Veen. </li>
+                        <li>Niko Springer is currently playing of the MODUS Super Series, which is a lower than the PDC
+                            Tour.</li>
+                        <li>Scott Williams is currently ranked 37th, while Niko Springer is ranked 157.</li>
+                    </ol>
+                </li>
+                <li> With a 2nd round tie against Rob Cross up for grabs, this is Scott Williams' to lose.</li>
+            </ul>
+            <fieldset>
+                <legend>Do you agree with this pick?</legend>
+                <label><input id="yes" type="radio" name="yes-no" value="yes" checked> Yes</label>
+                <label><input id="no" type="radio" name="yes-no" value="no" checked> No</label>
+            </fieldset>
+            <fieldset>
+                <input type="text" name="personname" placeholder="enter name" required>
+                <button type="submit">Submit</button>
+                </fieldset:>
+                </p>
+        </section>
+        <section>
+            <h6>Pick 5: Michael Smith v Kevin Doets</h6>
+            <p>
+            <ul>
+                <li>Choose <emp>Michael Smith to WIN</emp> @1.25</li>
+                <li>Reasoning:
+                    <ol>
+                        <li>Kevin Doets had a nervy first round outing against Noa-Lynn van Leuven, losing the 1st set
+                            in a 3-1 win.</li>
+                        <li>Michael Smith has had a good year, earning the number 2 seed and has beaten Kevin Doets in
+                            both of there recent meetings.</li>
+                    </ol>
+                </li>
+                <li> I believe that the pressure of playing a high calibre opponent will be too much for Kevin Doets and
+                    with Michael Smith not having the greatest run at the Players Championship Finals, expect a
+                    comfortable Michael Smith win.</li>
+            </ul>
+            <fieldset>
+                <legend>Do you agree with this pick?</legend>
+                <label><input id="yes" type="radio" name="yes-no" value="yes" checked> Yes</label>
+                <label><input id="no" type="radio" name="yes-no" value="no" checked> No</label>
+            </fieldset>
+            <fieldset>
+                <input type="text" name="personname" placeholder="enter name" required>
+                <button type="submit">Submit</button>
+                </fieldset:>
+                </p>
+        </section>
+        <section>
+            <h7>Pick 6: Los Angeles Chargers v Denver Broncos</h7>
+            p>
+            <ul>
+                <li>Choose <emp>Justin Herbert & Bo Nix 200+ Passing Yards Each</emp> @1.91</li>
+                <li>Reasoning:
+                    <ol>
+                        <li>The LA Chargers will be looking to end their 2 match losing streak after an embarrasing
+                            defeat to the Bucs last weekend.</li>
+                        <li>Bo Nix has hit this line 80% this season, and will be looking to throw the ball with the LA
+                            Chargers strong rush defense.</li>
+                        <li>Justin Herbert has hit this line 70% this season and has key WR Ladd McConkey back from
+                            injury.</li>
+                    </ol>
+                </li>
+                <li> Although these two team have very good secondaries, I believe that both defenses will force the QBs
+                    to throw the ball by plugging the gaps - stopping the rush offence from getting going.</li>
+            </ul>
+            <fieldset>
+                <legend>Do you agree with this pick?</legend>
+                <label><input id="yes" type="radio" name="yes-no" value="yes" checked> Yes</label>
+                <label><input id="no" type="radio" name="yes-no" value="no" checked> No</label>
+            </fieldset>
+            <fieldset>
+                <input type="text" name="personname" placeholder="enter name" required>
+                <button type="submit">Submit</button>
+                </fieldset:>
+                </p>
+        </section>
+    </main>
+    <footer>
+        <p>
+            Copyright - <a href="https://commons.wikimedia.org/wiki/File:Bet365_Logo.svg">wikimedia.org</a>
+        </p>
+    </footer>
+</body>
+
+</html>
